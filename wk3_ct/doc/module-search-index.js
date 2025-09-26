@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"wk3_ct"}];updateSearchResults();

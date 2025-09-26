@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"wk3_ct","l":"wk3_ct"}];updateSearchResults();
